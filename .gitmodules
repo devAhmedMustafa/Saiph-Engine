@@ -1,0 +1,3 @@
+[submodule "Saiph Engine/vendor/spdlog"]
+	path = Saiph Engine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
